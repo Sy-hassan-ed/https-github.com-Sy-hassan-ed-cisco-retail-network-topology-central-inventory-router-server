@@ -1,0 +1,13 @@
+| Location  | Router LAN IP | Subnet         | PC IP Range        |
+| --------- | ------------- | -------------- | ------------------ |
+| Store 1   | 192.168.1.1   | 192.168.1.0/24 | 192.168.1.10-12    |
+| Store 2   | 192.168.2.1   | 192.168.2.0/24 | 192.168.2.10-12    |
+| Store 3   | 192.168.3.1   | 192.168.3.0/24 | 192.168.3.10-12    |
+| Store 4   | 192.168.4.1   | 192.168.4.0/24 | 192.168.4.10-12    |
+| Store 5   | 192.168.5.1   | 192.168.5.0/24 | 192.168.5.10-12    |
+| Store 6   | 192.168.6.1   | 192.168.6.0/24 | 192.168.6.10-12    |
+| HQ LAN    | 10.0.0.1      | 10.0.0.0/24    | 10.0.0.10-13 (PCs) |
+| HQ Server | 10.0.1.2      | 10.0.1.0/24    | Server IP          |
+
+
+THE LAN'S CONNECTED TO EACH STORE ARE CONFIGURED THROUGH DHCP U CAN VERIFY THEIR IP RANGE BY CLICKING ON THE ROUTER AND COMPUTER!!!
